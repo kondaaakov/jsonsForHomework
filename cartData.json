@@ -1,0 +1,7 @@
+[
+  {"id": 1, "title": "Йогурт", "price": 65, "meas": "шт", "quantity": 6},
+  {"id": 2, "title": "Арбуз", "price": 48, "meas": "кг", "quantity": 2},
+  {"id": 7, "title": "Спагетти", "price": 100, "meas": "уп", "quantity": 4},
+  {"id": 15, "title": "Куриная ножка", "price": 49, "meas": "кг", "quantity": 1},
+  {"id": 18, "title": "Ананас", "price": 110, "meas": "кг", "quantity": 5}
+]

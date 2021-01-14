@@ -1,0 +1,22 @@
+[
+  {"id": 1, "title": "Йогурт", "price": 65, "meas": "шт"},
+  {"id": 2, "title": "Арбуз", "price": 48, "meas": "кг"},
+  {"id": 3, "title": "Бутылка воды", "price": 75, "meas": "шт"},
+  {"id": 4, "title": "Помидор", "price": 30, "meas": "кг"},
+  {"id": 5, "title": "Чай", "price": 145, "meas": "уп"},
+  {"id": 6, "title": "Лемонад", "price": 45, "meas": "шт"},
+  {"id": 7, "title": "Спагетти", "price": 100, "meas": "уп"},
+  {"id": 8, "title": "Майонез", "price": 58, "meas": "шт"},
+  {"id": 9, "title": "Снэки", "price": 34, "meas": "уп"},
+  {"id": 10, "title": "Креветки", "price": 375, "meas": "кг"},
+  {"id": 11, "title": "Приправа", "price": 150, "meas": "уп"},
+  {"id": 12, "title": "Соус Чили", "price": 74, "meas": "уп"},
+  {"id": 13, "title": "Рис", "price": 110, "meas": "уп"},
+  {"id": 14, "title": "Солёные огурчики", "price": 100, "meas": "шт"},
+  {"id": 15, "title": "Куриная ножка", "price": 49, "meas": "кг"},
+  {"id": 16, "title": "Куринная ножка", "price": 25, "meas": "шт"},
+  {"id": 17, "title": "Пицца", "price": 250, "meas": "шт"},
+  {"id": 18, "title": "Ананас", "price": 110, "meas": "кг"},
+  {"id": 19, "title": "Перец", "price": 70, "meas": "кг"},
+  {"id": 20, "title": "Макароны", "price": 94, "meas": "уп"}
+]
